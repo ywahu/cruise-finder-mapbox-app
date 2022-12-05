@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 475px;
+}
+
+.itin-load-button {
+  margin-top: 150px;
+}
+
+.changeview {
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  z-index: 9;
+}
+.changeview__link {
+  cursor: pointer;
+  padding: 7px 0;
+}
+
+.map {
+  margin-top: 40px;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  color: #000;
+}
+
+.card-content h6 {
+  margin-top: 0;
+}
